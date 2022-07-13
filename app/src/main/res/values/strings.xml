@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ROOM_MVVM-Word</string>
+    <string name="add_word">NEW WORD</string>
+</resources>
